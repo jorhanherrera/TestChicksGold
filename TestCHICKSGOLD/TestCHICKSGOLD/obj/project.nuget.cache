@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9wLUoOWKLWhjGLt4PlPr6pYWYqmA56gleb4NnaAiwyLSMvnaxtd5XlQvkoBXxYl/m2N27SYYwbes9WJu7HRWQA==",
+  "dgSpecHash": "CLGS/OWl8/e3XhdQOGgrY8C4HcZcEzLGJ6bkuXtIYvlgrEr8BUSv2p3lHmQjfmRA2yB9waai1IlyevolJTr0Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jorhan\\Downloads\\ChicksGoldProgrammerTest\\TestProject\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj",
+  "projectFilePath": "C:\\Desarrollo\\TestChicksGold\\TestChicksGold\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jorhan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Jorhan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

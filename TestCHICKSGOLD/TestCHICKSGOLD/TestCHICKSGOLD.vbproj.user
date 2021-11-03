@@ -4,16 +4,16 @@
     <ShowAllFiles>false</ShowAllFiles>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="HomeForm.vb">
+    <Compile Update="Home\HomeForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="LoginForm.vb">
+    <Compile Update="User\LoginForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="QuizForm.vb">
+    <Compile Update="Quiz\QuizForm.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="SetupForm.vb">
+    <Compile Update="Setup\SetupForm.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

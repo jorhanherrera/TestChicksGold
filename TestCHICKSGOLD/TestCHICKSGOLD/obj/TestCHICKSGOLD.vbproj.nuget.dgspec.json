@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jorhan\\Downloads\\ChicksGoldProgrammerTest\\TestProject\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj": {}
+    "C:\\Desarrollo\\TestChicksGold\\TestChicksGold\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Jorhan\\Downloads\\ChicksGoldProgrammerTest\\TestProject\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj": {
+    "C:\\Desarrollo\\TestChicksGold\\TestChicksGold\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jorhan\\Downloads\\ChicksGoldProgrammerTest\\TestProject\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj",
+        "projectUniqueName": "C:\\Desarrollo\\TestChicksGold\\TestChicksGold\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj",
         "projectName": "TestCHICKSGOLD",
-        "projectPath": "C:\\Users\\Jorhan\\Downloads\\ChicksGoldProgrammerTest\\TestProject\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj",
+        "projectPath": "C:\\Desarrollo\\TestChicksGold\\TestChicksGold\\TestCHICKSGOLD\\TestCHICKSGOLD\\TestCHICKSGOLD.vbproj",
         "packagesPath": "C:\\Users\\Jorhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jorhan\\Downloads\\ChicksGoldProgrammerTest\\TestProject\\TestCHICKSGOLD\\TestCHICKSGOLD\\obj\\",
+        "outputPath": "C:\\Desarrollo\\TestChicksGold\\TestChicksGold\\TestCHICKSGOLD\\TestCHICKSGOLD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
